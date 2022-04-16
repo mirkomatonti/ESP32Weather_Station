@@ -31,8 +31,17 @@ As an exercise, no external libraries are used to communicate with the sensors. 
 
 ## Hardware[EXPERIMENTAL]
 ![Custom PCB](https://i.ibb.co/HCTZjY3/Screenshot-2021-09-26-at-17-54-37.png)
+
+## Update 16th April 2022
+Unfortunately, after a heavy thunderstorm, the station stopped communicating. Once the box was opened, an orange liquid started flowing out, like the opening scene of Titanic.
+![Titanic](https://s7.gifyu.com/images/Titanic_Beginning_Scene.gif)
+Turned out that the electronic box was not properly sealed.
+![Damage1](https://i.ibb.co/tm3cYzZ/photo-2022-04-16-11-28-03.jpg)
+
 ## License
 
 This project is licensed under the MIT License.
+
+
 
 
