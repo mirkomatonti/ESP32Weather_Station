@@ -34,7 +34,7 @@ As an exercise, no external libraries are used to communicate with the sensors. 
 
 ## Update 16th April 2022
 Unfortunately, after a heavy thunderstorm, the station stopped communicating. Once the box was opened, an orange liquid started flowing out, like the opening scene of Titanic.
-![Titanic](https://s7.gifyu.com/images/Titanic_Beginning_Scene.gif)
+![Titanic](https://s7.gifyu.com/images/ezgif.com-gif-makerec0f60f41f05fa2a.gif)
 Turned out that the electronic box was not properly sealed.
 ![Damage1](https://i.ibb.co/tm3cYzZ/photo-2022-04-16-11-28-03.jpg)
 
