@@ -34,6 +34,8 @@ As an exercise, no external libraries are used to communicate with the sensors. 
 
 ## Update 16th April 2022
 Unfortunately, after a heavy thunderstorm, the station stopped communicating. Once the box was opened, an orange liquid started flowing out, like the opening scene of Titanic.
+
+
 ![Titanic](https://github.com/mirkomatonti/ESP32Weather_Station/blob/main/Titanic_Beginning_Scene.gif)
 ![Damage1](https://i.ibb.co/tm3cYzZ/photo-2022-04-16-11-28-03.jpg)
 
