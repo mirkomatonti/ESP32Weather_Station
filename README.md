@@ -33,7 +33,7 @@ As an exercise, no external libraries are used to communicate with the sensors. 
 ![Custom PCB](https://i.ibb.co/HCTZjY3/Screenshot-2021-09-26-at-17-54-37.png)
 
 ## Update 16th April 2022
-Unfortunately, after a heavy thunderstorm, the station stopped communicating. Once the box was opened, an orange liquid started flowing out, like the opening scene of Titanic.
+Unfortunately, after a heavy thunderstorm, the station stopped communicating. Once the box was opened, an orange liquid started flowing out, like the opening scene of the movie Titanic.
 
 
 ![Titanic](https://github.com/mirkomatonti/ESP32Weather_Station/blob/main/Titanic_Beginning_Scene.gif)
